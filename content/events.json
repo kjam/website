@@ -1,6 +1,16 @@
 {
     "$schema": "./.events.schema.json",
     "events": [
+      {
+        "date": "2026-04-13",
+        "event": "PyCon DE & PyData 2026",
+        "hosts": [
+            "Katharine Jarmul",
+            "Ines Montani"
+        ],
+        "location": "Darmstadt, Germany",
+        "url": "/events/2026-04-13"
+      },
         {
             "date": "2025-09-24",
             "event": "PyData Amsterdam",
@@ -30,7 +40,7 @@
         },
         {
             "date": "2025-04-23",
-            "event": "PyCon DE & PyData",
+            "event": "PyCon DE & PyData 2025",
             "hosts": [
                 "Katharine Jarmul",
                 "Ines Montani",
